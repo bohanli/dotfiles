@@ -8,5 +8,8 @@ ls_colors和ps1配色
 
 
 # vim
+k-vim
+- https://github.com/wklken/k-vim
+
 vim配色
 - https://alvinalexander.com/linux/vi-vim-editor-color-scheme-colorscheme
